@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.prog2.heartbeat.HeartTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-04-24T18:13:00" hostname="DESKTOP-HAFPO39" time="0.961">
+  <properties/>
+  <testcase name="testTheTest()" classname="ch.zhaw.prog2.heartbeat.HeartTest" time="0.72"/>
+  <testcase name="testExecuteHeartBeatErrorBehaviorWithMocking()" classname="ch.zhaw.prog2.heartbeat.HeartTest" time="0.033"/>
+  <testcase name="testValveStatus()" classname="ch.zhaw.prog2.heartbeat.HeartTest" time="0.085"/>
+  <testcase name="testHeartBeat()" classname="ch.zhaw.prog2.heartbeat.HeartTest" time="0.078"/>
+  <testcase name="testExecuteHeartBeatErrorBehavior()" classname="ch.zhaw.prog2.heartbeat.HeartTest" time="0.003"/>
+  <testcase name="testValvesBehavior()" classname="ch.zhaw.prog2.heartbeat.HeartTest" time="0.03"/>
+  <testcase name="testDiastoleException()" classname="ch.zhaw.prog2.heartbeat.HeartTest" time="0.002"/>
+  <testcase name="testSystoleException()" classname="ch.zhaw.prog2.heartbeat.HeartTest" time="0.002"/>
+  <system-out><![CDATA[AtrioventricularValve LEFT is opening.
+SemilunarValve LEFT is closing.
+Atrium LEFT is relaxing.
+Chamber LEFT is relaxing.
+AtrioventricularValve RIGHT is opening.
+SemilunarValve RIGHT is closing.
+Atrium RIGHT is relaxing.
+Chamber RIGHT is relaxing.
+AtrioventricularValve LEFT is closing.
+SemilunarValve LEFT is opening.
+Chamber LEFT is contracting.
+Atrium LEFT is contracting.
+AtrioventricularValve RIGHT is closing.
+SemilunarValve RIGHT is opening.
+Chamber RIGHT is contracting.
+Atrium RIGHT is contracting.
+AtrioventricularValve LEFT is opening.
+SemilunarValve LEFT is closing.
+Atrium LEFT is relaxing.
+Chamber LEFT is relaxing.
+AtrioventricularValve RIGHT is opening.
+SemilunarValve RIGHT is closing.
+Atrium RIGHT is relaxing.
+Chamber RIGHT is relaxing.
+AtrioventricularValve LEFT is closing.
+SemilunarValve LEFT is opening.
+Chamber LEFT is contracting.
+Atrium LEFT is contracting.
+AtrioventricularValve RIGHT is closing.
+SemilunarValve RIGHT is opening.
+Chamber RIGHT is contracting.
+Atrium RIGHT is contracting.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

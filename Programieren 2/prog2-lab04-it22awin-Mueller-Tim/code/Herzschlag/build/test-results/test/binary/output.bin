@@ -1,0 +1,32 @@
+(AtrioventricularValve LEFT is opening.
+!SemilunarValve LEFT is closing.
+Atrium LEFT is relaxing.
+Chamber LEFT is relaxing.
+)AtrioventricularValve RIGHT is opening.
+"SemilunarValve RIGHT is closing.
+Atrium RIGHT is relaxing.
+Chamber RIGHT is relaxing.
+(AtrioventricularValve LEFT is closing.
+!SemilunarValve LEFT is opening.
+Chamber LEFT is contracting.
+Atrium LEFT is contracting.
+)AtrioventricularValve RIGHT is closing.
+"SemilunarValve RIGHT is opening.
+Chamber RIGHT is contracting.
+Atrium RIGHT is contracting.
+(AtrioventricularValve LEFT is opening.
+!SemilunarValve LEFT is closing.
+Atrium LEFT is relaxing.
+Chamber LEFT is relaxing.
+)AtrioventricularValve RIGHT is opening.
+"SemilunarValve RIGHT is closing.
+Atrium RIGHT is relaxing.
+Chamber RIGHT is relaxing.
+(AtrioventricularValve LEFT is closing.
+!SemilunarValve LEFT is opening.
+Chamber LEFT is contracting.
+Atrium LEFT is contracting.
+)AtrioventricularValve RIGHT is closing.
+"SemilunarValve RIGHT is opening.
+Chamber RIGHT is contracting.
+Atrium RIGHT is contracting.
