@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Konto
+comment0.text=\r\n\ Einfaches\ Bankkonto,\ mit\ welches\ man\ Geld\ ein-\ und\ auszahlen,\ \r\n\ auch\ den\ Jahreszinsberechnen\ berechnen\ und\ alle\ Kontoangaben\ ausdrucken\ kann.\r\n\r\n\ @author\ (Tim\ Mueller)\r\n\ @version\ (22.09.2022)\r\n
+comment1.params=kontoInhaber
+comment1.target=Konto(java.lang.String)
+comment1.text=\r\n\ Konstostand\ ist\ null,Zinssatz\ ist\ 2\ und\ Kontoinhaber\ ist\ frei\ w\u00E4hlbar.\r\n
+comment2.params=kontoInhaber\ zinssatzInProzent
+comment2.target=Konto(java.lang.String,\ int)
+comment2.text=\r\n\ Konstostand\ ist\ null,Kontoinhaber\ und\ Zinssatz\ sind\ frei\ w\u00E4hlbar.\r\n
+comment3.params=
+comment3.target=int\ getZinssatzInProzent()
+comment4.params=zinssatzInProzent
+comment4.target=void\ setZinssatzInProzent(int)
+comment5.params=betrag
+comment5.target=void\ geldEinzahlen(int)
+comment6.params=betrag
+comment6.target=void\ geldAbheben(int)
+comment7.params=
+comment7.target=int\ zeigeJahreszins()
+comment8.params=
+comment8.target=void\ printKontoangaben()
+numComments=9
