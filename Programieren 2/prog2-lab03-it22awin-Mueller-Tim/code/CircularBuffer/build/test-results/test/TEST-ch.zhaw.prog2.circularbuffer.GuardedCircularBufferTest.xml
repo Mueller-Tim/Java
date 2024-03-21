@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.prog2.circularbuffer.GuardedCircularBufferTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-04-06T11:59:54" hostname="DESKTOP-HAFPO39" time="8.489">
+  <properties/>
+  <testcase name="testSinglePutGet()" classname="ch.zhaw.prog2.circularbuffer.GuardedCircularBufferTest" time="0.022"/>
+  <testcase name="testCount()" classname="ch.zhaw.prog2.circularbuffer.GuardedCircularBufferTest" time="0.004"/>
+  <testcase name="testEmpty()" classname="ch.zhaw.prog2.circularbuffer.GuardedCircularBufferTest" time="0.002"/>
+  <testcase name="testFull()" classname="ch.zhaw.prog2.circularbuffer.GuardedCircularBufferTest" time="0.001"/>
+  <testcase name="testProduceThenConsume()" classname="ch.zhaw.prog2.circularbuffer.GuardedCircularBufferTest" time="0.218"/>
+  <testcase name="testMultiplePutGet()" classname="ch.zhaw.prog2.circularbuffer.GuardedCircularBufferTest" time="0.002"/>
+  <testcase name="testBlockProduce()" classname="ch.zhaw.prog2.circularbuffer.GuardedCircularBufferTest" time="3.109"/>
+  <testcase name="testProduceAndConsume()" classname="ch.zhaw.prog2.circularbuffer.GuardedCircularBufferTest" time="2.013"/>
+  <testcase name="testBlockConsume()" classname="ch.zhaw.prog2.circularbuffer.GuardedCircularBufferTest" time="3.111"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Interrupted Producer at 5: null
+Interrupted Consumer at 0: null
+]]></system-err>
+</testsuite>
